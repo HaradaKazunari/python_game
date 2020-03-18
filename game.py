@@ -10,7 +10,7 @@ ENEMY_W = 12
 ENEMY_H = 12
 CIRC_SIZE = 10
 NUMBER_OF_MOUSE = 2 
-GAME_OVER = 1
+GAME_OVER = 2
 
 class vec:
     #座標
